@@ -62,6 +62,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="myImageView" destination="1Tc-NY-XuL" id="AMN-of-NeD"/>
                         <outlet property="myLabel" destination="I2Q-AN-lZf" id="hKJ-pm-KoS"/>
                     </connections>
                 </viewController>
